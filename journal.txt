@@ -1,0 +1,25 @@
+
+::group::✅ Passing tests
+✅ 01_zones
+✅ 02_accueil_client
+✅ 02b_accueil_client_suite
+✅ 09_mes_demandes
+✅ 10_mes_prestations
+✅ 03_resultats
+✅ 04_fiche_prestataire
+✅ 05_nouvelle_demande
+✅ 06_portefeuille
+✅ 07_identite
+✅ 08_accueil_prestataire
+✅ 08b_accueil_prestataire_suite
+✅ 12_profil
+✅ 13_negociation
+✅ 14_suivi
+✅ 13b_negociation_prestataire
+✅ 15b_contrat_a_payer
+✅ 15_contrat
+✅ 16_inscription
+✅ 11_commissions
+::endgroup::
+
+🎉 20 tests passed.
