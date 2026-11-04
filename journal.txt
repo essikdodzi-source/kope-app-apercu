@@ -1,0 +1,132 @@
+[
+ {
+  "name": "pc",
+  "pg": "index",
+  "fonts": [
+   "Manrope:true",
+   "Inter:false"
+  ]
+ },
+ {
+  "name": "pc",
+  "pg": "index",
+  "overflow": 0,
+  "broken": [],
+  "errs": []
+ },
+ {
+  "name": "pc",
+  "pg": "conditions",
+  "fonts": [
+   "Manrope:true",
+   "Inter:true"
+  ]
+ },
+ {
+  "name": "pc",
+  "pg": "conditions",
+  "overflow": 0,
+  "broken": [],
+  "errs": []
+ },
+ {
+  "test": "trade mécanique",
+  "shown": [
+   "Maison et réparations"
+  ]
+ },
+ {
+  "test": "aucun",
+  "none": "block"
+ },
+ {
+  "name": "tel",
+  "pg": "index",
+  "fonts": [
+   "Manrope:true",
+   "Inter:false"
+  ]
+ },
+ {
+  "name": "tel",
+  "pg": "index",
+  "overflow": 0,
+  "broken": [],
+  "errs": []
+ },
+ {
+  "name": "tel",
+  "pg": "conditions",
+  "fonts": [
+   "Manrope:true",
+   "Inter:true"
+  ]
+ },
+ {
+  "name": "tel",
+  "pg": "conditions",
+  "overflow": 0,
+  "broken": [],
+  "errs": []
+ },
+ {
+  "name": "tablette",
+  "pg": "index",
+  "fonts": [
+   "Manrope:true",
+   "Inter:false"
+  ]
+ },
+ {
+  "name": "tablette",
+  "pg": "index",
+  "overflow": 0,
+  "broken": [],
+  "errs": []
+ },
+ {
+  "name": "tablette",
+  "pg": "conditions",
+  "fonts": [
+   "Manrope:true",
+   "Inter:true"
+  ]
+ },
+ {
+  "name": "tablette",
+  "pg": "conditions",
+  "overflow": 0,
+  "broken": [],
+  "errs": []
+ },
+ {
+  "name": "iphone",
+  "pg": "index",
+  "fonts": [
+   "Manrope:true",
+   "Inter:false"
+  ]
+ },
+ {
+  "name": "iphone",
+  "pg": "index",
+  "overflow": 0,
+  "broken": [],
+  "errs": []
+ },
+ {
+  "name": "iphone",
+  "pg": "conditions",
+  "fonts": [
+   "Manrope:true",
+   "Inter:true"
+  ]
+ },
+ {
+  "name": "iphone",
+  "pg": "conditions",
+  "overflow": 0,
+  "broken": [],
+  "errs": []
+ }
+]
